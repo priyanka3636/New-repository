@@ -1,2 +1,3 @@
 # New-repository
-new-repo
+new-repo <br>
+some additional feature
